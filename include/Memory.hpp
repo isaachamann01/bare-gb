@@ -17,10 +17,12 @@ private:
     //ALL MEMORY IN ADDRESS SPACE
     std::array<byte, ADDRESS_SPACE> memory;
 public:
-    byte* ld_8_bit(byte address);
-    byte* ld_16_bit(byte address);
-    void sv_8_bit(byte address);
-    void sv_16_bit(byte address);
+    Memory();
+
+    byte* ld_8_bit(byte* address);
+    void sv_8_bit(byte* address, byte* value);
+
+    ~Memory();
 };
 
 #endif
