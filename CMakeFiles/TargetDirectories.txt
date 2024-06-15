@@ -1,0 +1,4 @@
+/Users/isaachamann/Repositories/bare_gb/CMakeFiles/baregb.dir
+/Users/isaachamann/Repositories/bare_gb/CMakeFiles/cpulib.dir
+/Users/isaachamann/Repositories/bare_gb/CMakeFiles/edit_cache.dir
+/Users/isaachamann/Repositories/bare_gb/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1232 @@
+-------------Row: 0--------------
+Scanline: 0
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 1--------------
+Scanline: 1
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 2--------------
+Scanline: 2
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 3--------------
+Scanline: 3
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 4--------------
+Scanline: 4
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 5--------------
+Scanline: 5
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 6--------------
+Scanline: 6
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 7--------------
+Scanline: 7
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 8--------------
+Scanline: 8
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 9--------------
+Scanline: 9
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 10--------------
+Scanline: 10
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 11--------------
+Scanline: 11
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 12--------------
+Scanline: 12
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 13--------------
+Scanline: 13
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 14--------------
+Scanline: 14
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 15--------------
+Scanline: 15
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 16--------------
+Scanline: 16
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 17--------------
+Scanline: 17
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 18--------------
+Scanline: 18
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 19--------------
+Scanline: 19
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 20--------------
+Scanline: 20
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 21--------------
+Scanline: 21
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 22--------------
+Scanline: 22
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 23--------------
+Scanline: 23
+Cycles: 536
+Pixels: 160
+Sprites: 64
+BG FIFO: 20
+SPR FIFO: 1
+Sprite top: -1
+-------------Row: 24--------------
+Scanline: 24
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 25--------------
+Scanline: 25
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 26--------------
+Scanline: 26
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 27--------------
+Scanline: 27
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 28--------------
+Scanline: 28
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 29--------------
+Scanline: 29
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 30--------------
+Scanline: 30
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 31--------------
+Scanline: 31
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 32--------------
+Scanline: 32
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 33--------------
+Scanline: 33
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 34--------------
+Scanline: 34
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 35--------------
+Scanline: 35
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 36--------------
+Scanline: 36
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 37--------------
+Scanline: 37
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 38--------------
+Scanline: 38
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 39--------------
+Scanline: 39
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 40--------------
+Scanline: 40
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 41--------------
+Scanline: 41
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 42--------------
+Scanline: 42
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 43--------------
+Scanline: 43
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 44--------------
+Scanline: 44
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 45--------------
+Scanline: 45
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 46--------------
+Scanline: 46
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 47--------------
+Scanline: 47
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 48--------------
+Scanline: 48
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 49--------------
+Scanline: 49
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 50--------------
+Scanline: 50
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 51--------------
+Scanline: 51
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 52--------------
+Scanline: 52
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 53--------------
+Scanline: 53
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 54--------------
+Scanline: 54
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 55--------------
+Scanline: 55
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 56--------------
+Scanline: 56
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 57--------------
+Scanline: 57
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 58--------------
+Scanline: 58
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 59--------------
+Scanline: 59
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 60--------------
+Scanline: 60
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 61--------------
+Scanline: 61
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 62--------------
+Scanline: 62
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 63--------------
+Scanline: 63
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 64--------------
+Scanline: 64
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 65--------------
+Scanline: 65
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 66--------------
+Scanline: 66
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 67--------------
+Scanline: 67
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 68--------------
+Scanline: 68
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 69--------------
+Scanline: 69
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 70--------------
+Scanline: 70
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 71--------------
+Scanline: 71
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 72--------------
+Scanline: 72
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 73--------------
+Scanline: 73
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 74--------------
+Scanline: 74
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 75--------------
+Scanline: 75
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 76--------------
+Scanline: 76
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 77--------------
+Scanline: 77
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 78--------------
+Scanline: 78
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 79--------------
+Scanline: 79
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 80--------------
+Scanline: 80
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 81--------------
+Scanline: 81
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 82--------------
+Scanline: 82
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 83--------------
+Scanline: 83
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 84--------------
+Scanline: 84
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 85--------------
+Scanline: 85
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 86--------------
+Scanline: 86
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 87--------------
+Scanline: 87
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 88--------------
+Scanline: 88
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 89--------------
+Scanline: 89
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 90--------------
+Scanline: 90
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 91--------------
+Scanline: 91
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 92--------------
+Scanline: 92
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 93--------------
+Scanline: 93
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 94--------------
+Scanline: 94
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 95--------------
+Scanline: 95
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 96--------------
+Scanline: 96
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 97--------------
+Scanline: 97
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 98--------------
+Scanline: 98
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 99--------------
+Scanline: 99
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 100--------------
+Scanline: 100
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 101--------------
+Scanline: 101
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 102--------------
+Scanline: 102
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 103--------------
+Scanline: 103
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 104--------------
+Scanline: 104
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 105--------------
+Scanline: 105
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 106--------------
+Scanline: 106
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 107--------------
+Scanline: 107
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 108--------------
+Scanline: 108
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 109--------------
+Scanline: 109
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 110--------------
+Scanline: 110
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 111--------------
+Scanline: 111
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 112--------------
+Scanline: 112
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 113--------------
+Scanline: 113
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 114--------------
+Scanline: 114
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 115--------------
+Scanline: 115
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 116--------------
+Scanline: 116
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 117--------------
+Scanline: 117
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 118--------------
+Scanline: 118
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 119--------------
+Scanline: 119
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 120--------------
+Scanline: 120
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 121--------------
+Scanline: 121
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 122--------------
+Scanline: 122
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 123--------------
+Scanline: 123
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 124--------------
+Scanline: 124
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 125--------------
+Scanline: 125
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 126--------------
+Scanline: 126
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 127--------------
+Scanline: 127
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 128--------------
+Scanline: 128
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 129--------------
+Scanline: 129
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 130--------------
+Scanline: 130
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 131--------------
+Scanline: 131
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 132--------------
+Scanline: 132
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 133--------------
+Scanline: 133
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 134--------------
+Scanline: 134
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 135--------------
+Scanline: 135
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 136--------------
+Scanline: 136
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 137--------------
+Scanline: 137
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 138--------------
+Scanline: 138
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 139--------------
+Scanline: 139
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 140--------------
+Scanline: 140
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 141--------------
+Scanline: 141
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 142--------------
+Scanline: 142
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 143--------------
+Scanline: 143
+Cycles: 536
+Pixels: 160
+Sprites: 0
+BG FIFO: 20
+SPR FIFO: 0
+Sprite top: -1
+-------------Row: 144--------------
+Scanline: 144
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 145--------------
+Scanline: 145
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 146--------------
+Scanline: 146
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 147--------------
+Scanline: 147
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 148--------------
+Scanline: 148
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 149--------------
+Scanline: 149
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 150--------------
+Scanline: 150
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 151--------------
+Scanline: 151
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 152--------------
+Scanline: 152
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
+-------------Row: 153--------------
+Scanline: 153
+Cycles: 456
+Pixels: 0
+Sprites: 0
+BG FIFO: 0
+SPR FIFO: 0
+Sprite top: 0
